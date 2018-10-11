@@ -1,0 +1,28 @@
+#dashboard {
+  background-color: darkgrey;
+  padding: 50px 15px 150px 15px; }
+  #dashboard .userBtn {
+    margin-top: 50px;
+    background: transparent;
+    display: block;
+    margin: 0 auto;
+    color: #000000;
+    border: 1px solid #000000; }
+    #dashboard .userBtn:hover {
+      color: #ffffff;
+      background: #000000; }
+  #dashboard .addLabel {
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 25px; }
+  #dashboard .articleBtn {
+    margin-top: 25px; }
+    #dashboard .articleBtn:hover {
+      background: #000000;
+      color: #ffffff; }
+  #dashboard .feedReq {
+    margin-bottom: 35px;
+    color: #a54141;
+    font-weight: bold; }
+  #dashboard .feedLabel {
+    margin-right: 15px; }

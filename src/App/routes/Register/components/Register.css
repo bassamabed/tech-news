@@ -1,0 +1,9 @@
+#register {
+  background-color: darkslategray;
+  padding: 25px; }
+  #register label {
+    color: #fff; }
+  #register .btnGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; }

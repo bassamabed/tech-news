@@ -1,0 +1,20 @@
+#home {
+  padding: 100px 15px 100px 15px; }
+  #home .textHead {
+    text-align: center; }
+  #home .textSub {
+    text-align: center;
+    font-size: 21px; }
+  #home .newsHead {
+    border: 9px solid darkgray;
+    margin-top: 25px;
+    width: 190px;
+    text-align: center; }
+  #home .feedArticle {
+    color: #676300;
+    border-bottom: 2px solid #676300;
+    margin-top: 30px;
+    cursor: pointer; }
+
+.homeModal {
+  margin-top: 350px; }

@@ -1,0 +1,4 @@
+export default {
+  GET_PROFILE_INPUT:"GET_PROFILE_INPUT",
+  SAVE_EDIT:"SAVE_EDIT"
+};

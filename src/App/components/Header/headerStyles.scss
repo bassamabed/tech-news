@@ -1,0 +1,12 @@
+:global(.navbar){
+    background: black !important;
+}
+.logo{
+    color: #ffffff;
+}
+:global(.nav-link){
+    color: #ffffff !important;
+    &:hover{
+        color: #2d455b;
+    }
+}

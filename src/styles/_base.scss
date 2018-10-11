@@ -1,0 +1,41 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: #fff;
+}
+//nav
+.navbar{
+  height: 123px;
+  background-color: #fff;
+}
+
+.navbar-dark  {
+  .navbar-nav{
+    .nav-link{
+      color: #fff;
+      font-size: 18px;
+    }
+  }
+}
+.logo{
+  display: flex;
+  flex-direction: row;
+  img{
+    width: 80px;
+  }
+  span{
+    margin: auto;
+    padding-left: 28px;
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 22px;
+  }
+}
+.nav-item{
+  padding: 8px;
+}
+
+@media only screen and (min-width: 767px) {
+  .navbar {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+}

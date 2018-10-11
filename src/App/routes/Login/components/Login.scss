@@ -1,0 +1,12 @@
+#login{
+  background-color: darkslategray;
+  padding: 25px;
+  label{
+    color: #fff;
+  }
+  .btnGroup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+}

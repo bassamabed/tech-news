@@ -1,0 +1,9 @@
+#login {
+  background-color: darkslategray;
+  padding: 25px; }
+  #login label {
+    color: #fff; }
+  #login .btnGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; }

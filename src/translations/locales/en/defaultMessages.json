@@ -1,0 +1,12 @@
+[
+  {
+    "descriptors": [
+      {
+        "defaultMessage": "Hie, {name}!",
+        "description": "Message to greet the user.",
+        "id": "app.home.greeting"
+      }
+    ],
+    "path": "src/app/routes/Home/components/About/index.json"
+  }
+]
