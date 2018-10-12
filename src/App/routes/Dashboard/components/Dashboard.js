@@ -101,7 +101,6 @@ class Dashboard extends Component {
                             <input type="checkbox" name="approved" checked={news.approved} onClick={()=>this.props.toggleApprove({
                               title:news.title,
                               text:news.text,
-                              createdAt:news.createdAt,
                               approved:!news.approved},
                               index)
                               }

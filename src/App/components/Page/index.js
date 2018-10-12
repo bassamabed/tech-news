@@ -10,11 +10,11 @@ const SITE_URL =
 
 const FACEBOOK_APP_ID = "XXXXXXXXX";
 
-const defaultTitle = "Baltex ICO";
+const defaultTitle = "TechNews";
 const defaultDescription =
-  "Baltex ICO";
+  "TechNews";
 const defaultImage = `${SITE_URL}${logo}`;
-const defaultTwitter = "@baltex";
+const defaultTwitter = "@TechNews";
 const defaultSep = " | ";
 
 class Page extends Component {
